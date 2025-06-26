@@ -10,7 +10,8 @@ cd C:\Proger
 git clone https://github.com/goshaobolonskiy/request_navigator/
 3. cd request_navigator
 4. pip install -r requirements.txt
-5. Запуск программы:
+5. start test.txt
+6. Запуск программы:
 python visual_navigator.py
 ```
 **Если сайт залагал и программа делает не правильные нажатия - закрывайте и перезапускайте**
